@@ -1,4 +1,5 @@
 # https://git-cliff.org/docs/configuration
+# Clawdex fork: using same changelog configuration, comment added to refresh metadata.
 
 [changelog]
 header = """

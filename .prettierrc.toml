@@ -6,3 +6,5 @@ trailingComma = "all"
 
 # Preserve existing behavior for markdown/text wrapping.
 proseWrap = "preserve"
+
+# Clawdex fork: formatting rules unchanged; comment added to refresh metadata.

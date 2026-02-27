@@ -38,6 +38,8 @@ CLAUDE.md
 .eslintcache
 .nyc_output/
 .jest/
+
+# Clawdex: keep fork metadata fresh in Git history.
 *.tsbuildinfo
 
 # logs

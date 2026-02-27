@@ -2,6 +2,7 @@
 
 You can install any of these versions: `npm install -g codex@version`
 
+> Clawdex fork note: no new upstream releases here yet; this entry simply refreshes metadata for the fork.
 ## `0.1.2504301751`
 
 ### 🚀 Features

@@ -5,3 +5,5 @@ packages:
 
 ignoredBuiltDependencies:
   - esbuild
+
+# Clawdex fork: workspace layout unchanged; comment added to refresh metadata.

@@ -43,5 +43,9 @@
       "cd codex-cli && pnpm run typecheck"
     ]
   },
+  "clawdexMeta": {
+    "forkRefreshedAt": "2026-02-27",
+    "note": "Non-functional metadata update for Clawdex fork."
+  },
   "packageManager": "pnpm@10.8.1"
 }
