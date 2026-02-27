@@ -1,6 +1,6 @@
-# @steipete's Codex Fork
+# Clawdex (fork by @steipete)
 
-This is a customized fork of the OpenAI Codex CLI with the following key modifications:
+This is a customized fork of the OpenAI Codex CLI called **Clawdex** with the following key modifications (last refreshed on 2026-02-27):
 
 > **⚠️ Use at your own risk. This is the true YOLO version of Codex. ⚠️**
 

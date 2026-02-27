@@ -1,5 +1,7 @@
 # Migration to pnpm
 
+> Clawdex note (2026-02-27): this fork still follows the same pnpm-based workflow as upstream; instructions below remain valid.
+
 This project has been migrated from npm to pnpm to improve dependency management and developer experience.
 
 ## Why pnpm?
